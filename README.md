@@ -1,5 +1,8 @@
 #  About Me:
 Hi, I'm Sharad Singh<br>An MIS Executive passionate about data analysis and reporting.<br>Skilled in Advanced Excel, Power BI, and Dashboard Creation.<br>I love turning complex data into clear, actionable insights and<br>continuously learning new technologies in the field of data analytics.
+* 🌍  I'm based in INDIA
+* ✉️  You can contact me at [sharadsingh677@gmailcom](mailto:sharadsingh677@gmailcom)
+* 🧠  I'm currently learning POWER BI, MS SQL
 
 
 ## 🌐 Socials:
